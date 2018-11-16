@@ -40,5 +40,17 @@ namespace Fii.Data
                 Total += prop.Price;
             }
         }
+
+        public void update(DateTime date, string description, List<Products> list)
+        {
+            Date = date;
+            Description = description;
+            Products = list;
+
+            foreach (Products prop in Products)
+            {
+                Total += prop.Price;
+            }
+        }
     }
 }

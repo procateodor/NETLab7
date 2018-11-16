@@ -37,5 +37,13 @@ namespace Fii.Data
             Pieces = pieces;
             Total = Price * Pieces;
         }
+
+        public void update(string name, double price, int pieces)
+        {
+            Name = name;
+            Price = price;
+            Pieces = pieces;
+            Total = Price * Pieces;
+        }
     }
 }

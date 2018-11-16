@@ -3412,11 +3412,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Teo\\Desktop\\TodoFullApplication\\Fii.Data\\Fii.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Teo\\Desktop\\NETLab7\\Fii.Data\\Fii.Data.csproj",
       "projectName": "Fii.Data",
-      "projectPath": "C:\\Users\\Teo\\Desktop\\TodoFullApplication\\Fii.Data\\Fii.Data.csproj",
+      "projectPath": "C:\\Users\\Teo\\Desktop\\NETLab7\\Fii.Data\\Fii.Data.csproj",
       "packagesPath": "C:\\Users\\Teo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Teo\\Desktop\\TodoFullApplication\\Fii.Data\\obj\\",
+      "outputPath": "C:\\Users\\Teo\\Desktop\\NETLab7\\Fii.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

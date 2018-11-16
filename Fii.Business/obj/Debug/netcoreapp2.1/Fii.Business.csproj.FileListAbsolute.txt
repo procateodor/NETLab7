@@ -1,0 +1,12 @@
+C:\Users\Teo\Desktop\NETLab7\Fii.Business\bin\Debug\netcoreapp2.1\Fii.Business.deps.json
+C:\Users\Teo\Desktop\NETLab7\Fii.Business\bin\Debug\netcoreapp2.1\Fii.Business.dll
+C:\Users\Teo\Desktop\NETLab7\Fii.Business\bin\Debug\netcoreapp2.1\Fii.Business.pdb
+C:\Users\Teo\Desktop\NETLab7\Fii.Business\bin\Debug\netcoreapp2.1\Fii.Data.dll
+C:\Users\Teo\Desktop\NETLab7\Fii.Business\bin\Debug\netcoreapp2.1\Fii.Data.pdb
+C:\Users\Teo\Desktop\NETLab7\Fii.Business\obj\Debug\netcoreapp2.1\Fii.Business.csprojAssemblyReference.cache
+C:\Users\Teo\Desktop\NETLab7\Fii.Business\obj\Debug\netcoreapp2.1\Fii.Business.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Desktop\NETLab7\Fii.Business\obj\Debug\netcoreapp2.1\Fii.Business.AssemblyInfoInputs.cache
+C:\Users\Teo\Desktop\NETLab7\Fii.Business\obj\Debug\netcoreapp2.1\Fii.Business.AssemblyInfo.cs
+C:\Users\Teo\Desktop\NETLab7\Fii.Business\obj\Debug\netcoreapp2.1\Fii.Business.csproj.CopyComplete
+C:\Users\Teo\Desktop\NETLab7\Fii.Business\obj\Debug\netcoreapp2.1\Fii.Business.dll
+C:\Users\Teo\Desktop\NETLab7\Fii.Business\obj\Debug\netcoreapp2.1\Fii.Business.pdb

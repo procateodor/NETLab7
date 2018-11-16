@@ -3430,11 +3430,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Teo\\Desktop\\TodoFullApplication\\Fii.Business\\Fii.Business.csproj",
+      "projectUniqueName": "C:\\Users\\Teo\\Desktop\\NETLab7\\Fii.Business\\Fii.Business.csproj",
       "projectName": "Fii.Business",
-      "projectPath": "C:\\Users\\Teo\\Desktop\\TodoFullApplication\\Fii.Business\\Fii.Business.csproj",
+      "projectPath": "C:\\Users\\Teo\\Desktop\\NETLab7\\Fii.Business\\Fii.Business.csproj",
       "packagesPath": "C:\\Users\\Teo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Teo\\Desktop\\TodoFullApplication\\Fii.Business\\obj\\",
+      "outputPath": "C:\\Users\\Teo\\Desktop\\NETLab7\\Fii.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3453,8 +3453,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Teo\\Desktop\\TodoFullApplication\\Fii.Data\\Fii.Data.csproj": {
-              "projectPath": "C:\\Users\\Teo\\Desktop\\TodoFullApplication\\Fii.Data\\Fii.Data.csproj"
+            "C:\\Users\\Teo\\Desktop\\NETLab7\\Fii.Data\\Fii.Data.csproj": {
+              "projectPath": "C:\\Users\\Teo\\Desktop\\NETLab7\\Fii.Data\\Fii.Data.csproj"
             }
           }
         }

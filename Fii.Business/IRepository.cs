@@ -8,6 +8,7 @@ namespace Fii.Business
     {
         void Create(T products);
         IReadOnlyList<T> GetAll();
+        void Update(T product);
         T GetById(Guid id);
     }
 }

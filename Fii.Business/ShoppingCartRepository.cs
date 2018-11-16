@@ -33,5 +33,14 @@ namespace Fii.Business
         {
             return _context.ShoppingCarts.ToList();
         }
+
+        public void Update(ShoppingCart cart)
+        {
+            if (cart != null)
+            {
+                _context.ShoppingCarts.Update(cart);
+                _context.SaveChanges();
+            }
+        }
     }
 }
