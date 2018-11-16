@@ -30,29 +30,29 @@ namespace WebApiDesign.Controllers
         }
 
         [HttpPost]
-        public ActionResult<ShoppingCart> Post([FromBody]  DateTime data, string descripion, List<Products> products)
+        public ActionResult<ShoppingCart> Post([FromBody] CreateModelShoppingCart model)
         {
-            if (data == null || descripion == null || products == null)
+            if (model.Name == null)
             {
                 return BadRequest();
             }
 
-            ShoppingCart cart = new ShoppingCart(data, descripion, products);
+            ShoppingCart cart = new ShoppingCart(model.Date, model.Descripion, model.Products);
             this._repository.Create(cart);
 
             return CreatedAtRoute("GetById", new { id = cart.Id }, cart);
         }
 
         [HttpPut]
-        public ActionResult<ShoppingCart> Put([FromBody] Guid id,  DateTime data, string descripion, List<Products> products)
+        public ActionResult<ShoppingCart> Put([FromBody] Guid id, CreateModelShoppingCart model)
         {
-            if (data == null || descripion == null || products == null)
+            if (model.Date == null)
             {
                 return BadRequest();
             }
 
-            ShoppingCart cart = new ShoppingCart(data, descripion, products);
-            this._repository.Create(cart);
+            ShoppingCart cart = new ShoppingCart(model.Date, model.Descripion, model.Products);
+            this._repository.Update(cart);
 
             return CreatedAtRoute("GetById", new { id = cart.Id }, cart);
         }
