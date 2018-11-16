@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Teo\Desktop\NETLab7\WebApiDesign\bin\Debug\netcoreapp2.1\WebApiDesign.deps.json
 C:\Users\Teo\Desktop\NETLab7\WebApiDesign\bin\Debug\netcoreapp2.1\WebApiDesign.runtimeconfig.json
 C:\Users\Teo\Desktop\NETLab7\WebApiDesign\bin\Debug\netcoreapp2.1\WebApiDesign.runtimeconfig.dev.json
@@ -17,3 +18,24 @@ C:\Users\Teo\Desktop\NETLab7\WebApiDesign\bin\Debug\netcoreapp2.1\Fii.Data.pdb
 C:\Users\Teo\Desktop\NETLab7\WebApiDesign\obj\Debug\netcoreapp2.1\WebApiDesign.csproj.CopyComplete
 C:\Users\Teo\Desktop\NETLab7\WebApiDesign\obj\Debug\netcoreapp2.1\WebApiDesign.dll
 C:\Users\Teo\Desktop\NETLab7\WebApiDesign\obj\Debug\netcoreapp2.1\WebApiDesign.pdb
+=======
+C:\Users\Aurelia\Desktop\NETLab7\WebApiDesign\bin\Debug\netcoreapp2.1\Fii.Business.dll
+C:\Users\Aurelia\Desktop\NETLab7\WebApiDesign\bin\Debug\netcoreapp2.1\Fii.Data.dll
+C:\Users\Aurelia\Desktop\NETLab7\WebApiDesign\obj\Debug\netcoreapp2.1\WebApiDesign.csprojAssemblyReference.cache
+C:\Users\Aurelia\Desktop\NETLab7\WebApiDesign\obj\Debug\netcoreapp2.1\WebApiDesign.csproj.CoreCompileInputs.cache
+C:\Users\Aurelia\Desktop\NETLab7\WebApiDesign\obj\Debug\netcoreapp2.1\WebApiDesign.RazorAssemblyInfo.cache
+C:\Users\Aurelia\Desktop\NETLab7\WebApiDesign\obj\Debug\netcoreapp2.1\WebApiDesign.RazorAssemblyInfo.cs
+C:\Users\Aurelia\Desktop\NETLab7\WebApiDesign\obj\Debug\netcoreapp2.1\WebApiDesign.AssemblyInfoInputs.cache
+C:\Users\Aurelia\Desktop\NETLab7\WebApiDesign\obj\Debug\netcoreapp2.1\WebApiDesign.AssemblyInfo.cs
+C:\Users\Aurelia\Desktop\NETLab7\WebApiDesign\obj\Debug\netcoreapp2.1\WebApiDesign.RazorTargetAssemblyInfo.cache
+C:\Users\Aurelia\Desktop\NETLab7\WebApiDesign\bin\Debug\netcoreapp2.1\WebApiDesign.deps.json
+C:\Users\Aurelia\Desktop\NETLab7\WebApiDesign\bin\Debug\netcoreapp2.1\WebApiDesign.runtimeconfig.json
+C:\Users\Aurelia\Desktop\NETLab7\WebApiDesign\bin\Debug\netcoreapp2.1\WebApiDesign.runtimeconfig.dev.json
+C:\Users\Aurelia\Desktop\NETLab7\WebApiDesign\bin\Debug\netcoreapp2.1\WebApiDesign.dll
+C:\Users\Aurelia\Desktop\NETLab7\WebApiDesign\bin\Debug\netcoreapp2.1\WebApiDesign.pdb
+C:\Users\Aurelia\Desktop\NETLab7\WebApiDesign\bin\Debug\netcoreapp2.1\Fii.Business.pdb
+C:\Users\Aurelia\Desktop\NETLab7\WebApiDesign\bin\Debug\netcoreapp2.1\Fii.Data.pdb
+C:\Users\Aurelia\Desktop\NETLab7\WebApiDesign\obj\Debug\netcoreapp2.1\WebApiDesign.csproj.CopyComplete
+C:\Users\Aurelia\Desktop\NETLab7\WebApiDesign\obj\Debug\netcoreapp2.1\WebApiDesign.dll
+C:\Users\Aurelia\Desktop\NETLab7\WebApiDesign\obj\Debug\netcoreapp2.1\WebApiDesign.pdb
+>>>>>>> 04f7391ae7b6a79f8861f8e8754881efb9a0b05f

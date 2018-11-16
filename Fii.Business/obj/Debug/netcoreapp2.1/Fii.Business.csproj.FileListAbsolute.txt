@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Teo\Desktop\NETLab7\Fii.Business\bin\Debug\netcoreapp2.1\Fii.Business.deps.json
 C:\Users\Teo\Desktop\NETLab7\Fii.Business\bin\Debug\netcoreapp2.1\Fii.Business.dll
 C:\Users\Teo\Desktop\NETLab7\Fii.Business\bin\Debug\netcoreapp2.1\Fii.Business.pdb
@@ -10,3 +11,17 @@ C:\Users\Teo\Desktop\NETLab7\Fii.Business\obj\Debug\netcoreapp2.1\Fii.Business.A
 C:\Users\Teo\Desktop\NETLab7\Fii.Business\obj\Debug\netcoreapp2.1\Fii.Business.csproj.CopyComplete
 C:\Users\Teo\Desktop\NETLab7\Fii.Business\obj\Debug\netcoreapp2.1\Fii.Business.dll
 C:\Users\Teo\Desktop\NETLab7\Fii.Business\obj\Debug\netcoreapp2.1\Fii.Business.pdb
+=======
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Business\bin\Debug\netcoreapp2.1\Fii.Business.deps.json
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Business\bin\Debug\netcoreapp2.1\Fii.Business.dll
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Business\bin\Debug\netcoreapp2.1\Fii.Business.pdb
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Business\bin\Debug\netcoreapp2.1\Fii.Data.dll
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Business\bin\Debug\netcoreapp2.1\Fii.Data.pdb
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Business\obj\Debug\netcoreapp2.1\Fii.Business.csprojAssemblyReference.cache
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Business\obj\Debug\netcoreapp2.1\Fii.Business.csproj.CoreCompileInputs.cache
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Business\obj\Debug\netcoreapp2.1\Fii.Business.AssemblyInfoInputs.cache
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Business\obj\Debug\netcoreapp2.1\Fii.Business.AssemblyInfo.cs
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Business\obj\Debug\netcoreapp2.1\Fii.Business.csproj.CopyComplete
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Business\obj\Debug\netcoreapp2.1\Fii.Business.dll
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Business\obj\Debug\netcoreapp2.1\Fii.Business.pdb
+>>>>>>> 04f7391ae7b6a79f8861f8e8754881efb9a0b05f

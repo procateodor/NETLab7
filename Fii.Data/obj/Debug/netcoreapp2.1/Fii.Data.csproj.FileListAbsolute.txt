@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Teo\Desktop\NETLab7\Fii.Data\bin\Debug\netcoreapp2.1\Fii.Data.deps.json
 C:\Users\Teo\Desktop\NETLab7\Fii.Data\bin\Debug\netcoreapp2.1\Fii.Data.dll
 C:\Users\Teo\Desktop\NETLab7\Fii.Data\bin\Debug\netcoreapp2.1\Fii.Data.pdb
@@ -7,3 +8,14 @@ C:\Users\Teo\Desktop\NETLab7\Fii.Data\obj\Debug\netcoreapp2.1\Fii.Data.AssemblyI
 C:\Users\Teo\Desktop\NETLab7\Fii.Data\obj\Debug\netcoreapp2.1\Fii.Data.AssemblyInfo.cs
 C:\Users\Teo\Desktop\NETLab7\Fii.Data\obj\Debug\netcoreapp2.1\Fii.Data.dll
 C:\Users\Teo\Desktop\NETLab7\Fii.Data\obj\Debug\netcoreapp2.1\Fii.Data.pdb
+=======
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Data\bin\Debug\netcoreapp2.1\Fii.Data.deps.json
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Data\bin\Debug\netcoreapp2.1\Fii.Data.dll
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Data\bin\Debug\netcoreapp2.1\Fii.Data.pdb
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Data\obj\Debug\netcoreapp2.1\Fii.Data.csprojAssemblyReference.cache
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Data\obj\Debug\netcoreapp2.1\Fii.Data.csproj.CoreCompileInputs.cache
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Data\obj\Debug\netcoreapp2.1\Fii.Data.AssemblyInfoInputs.cache
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Data\obj\Debug\netcoreapp2.1\Fii.Data.AssemblyInfo.cs
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Data\obj\Debug\netcoreapp2.1\Fii.Data.dll
+C:\Users\Aurelia\Desktop\NETLab7\Fii.Data\obj\Debug\netcoreapp2.1\Fii.Data.pdb
+>>>>>>> 04f7391ae7b6a79f8861f8e8754881efb9a0b05f
