@@ -3406,23 +3406,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Teo\\.nuget\\packages\\": {},
+    "C:\\Users\\Aurelia\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Teo\\Desktop\\TodoFullApplication\\Fii.Data\\Fii.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Aurelia\\Desktop\\NETLab7\\Fii.Data\\Fii.Data.csproj",
       "projectName": "Fii.Data",
-      "projectPath": "C:\\Users\\Teo\\Desktop\\TodoFullApplication\\Fii.Data\\Fii.Data.csproj",
-      "packagesPath": "C:\\Users\\Teo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Teo\\Desktop\\TodoFullApplication\\Fii.Data\\obj\\",
+      "projectPath": "C:\\Users\\Aurelia\\Desktop\\NETLab7\\Fii.Data\\Fii.Data.csproj",
+      "packagesPath": "C:\\Users\\Aurelia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aurelia\\Desktop\\NETLab7\\Fii.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Teo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aurelia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
